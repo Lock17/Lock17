@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Lock17  
+My stuff is usually private except for this.
 
 <!--
 **Lock17/Lock17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
